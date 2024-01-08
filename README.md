@@ -1,4 +1,4 @@
-# ICMS.EMS.ForUser
+# EMS ICMS
 
 Issue handling space for ICMS [formerly called as Cyberlynx] EMS application developed by Value Creating Solutions Sdn Bhd. We suggest the users from ICMS signup with Github and post issues. Any open issues will attended accordingly.
 
